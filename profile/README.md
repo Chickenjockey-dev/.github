@@ -8,8 +8,8 @@ CHJK Studios was founded in **early June of 2025**,
 Website: [chjk.xyz](https://chjk.xyz) | [chickenjockey.dev (old)](https://chickenjockey.dev)
 
 Projects:
-  - Minecraft server tools: [utils.chjk.xyz](https://utils.chjk.xyz) | [server-designer](https://github.com/chickenjockey-dev/server-designer)
-  - Link in bio Website Generator: [LinkInBio](https://chickenjockey-dev/linkinbio) | [bio.chjk.xyz](https://bio.chjk.xyz)
+  - Minecraft server tools: [utils.chjk.xyz](https://utils.chjk.xyz) | [server-designer](https://github.com/chjk-studios/server-designer)
+  - Link in bio Website Generator: [LinkInBio](https://chjk-studios/linkinbio) | [bio.chjk.xyz](https://bio.chjk.xyz)
   
 <!--
 
